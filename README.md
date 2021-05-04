@@ -13,7 +13,7 @@ Install all required packages
 npm install
 ```
 Migrate database
-note:- Setup your db and add credentials in .env file
+note:- Setup your db and add credentials in config/config.js file
 ```bash
 sequelize db:migrate
 ```
